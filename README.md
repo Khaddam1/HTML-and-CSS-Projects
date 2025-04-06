@@ -15,3 +15,5 @@ This is my basic portfolio website created with HTML and CSS. It includes variou
 ## Technologies Used
 - HTML5
 - CSS3
+
+## Check it out: https://khaddam1.github.io/HTML-and-CSS-Projects/portfolio
